@@ -15,7 +15,7 @@ GPIO.setup(ATTACHED,GPIO.OUT)
 GPIO.setup(LED_PIN, GPIO.OUT)
 
 voices = tts.getProperty('voices')
-openai.api_key = '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'
+openai.api_key = 'sk'
 
 recognizer = sr.Recognizer()
 

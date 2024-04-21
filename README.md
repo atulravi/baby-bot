@@ -1,7 +1,7 @@
 # Baby-Bot
 ## Repository of files for Baby Bot as re-documented in '24
 
-Code and data for Baby Bot which was demonstrated locally at my place of education and at a TechAstra 2K23 which was held locally in 2023. 
+Code and data for Baby Bot which was demonstrated locally at my school and at a TechAstra 2K23 which was held locally in 2023. 
 
 Fully coded in Python with a small output LED which showed the status of the listening process. 
 

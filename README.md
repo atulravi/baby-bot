@@ -11,7 +11,7 @@ OpenAi Api key to be replaced by end user.
 
 Was made to work with a RPI 3A+ running Raspbian CLI with some additional Libraries installed. External Display was a Waveshare GPIO display with a touch panel (Touch never worked for me).
 
-Pic 1: Demonstration with old enclosure with out display in July '23
+Pic 1: Demonstration with old enclosure without display in July '23
 ![2](https://github.com/atulravi/baby-bot/assets/70395057/676593b6-923f-4976-be84-b537414311fa)
 
 Pic 2: Demonstration at competition with extra features including automation at contest Sep '23

@@ -22,7 +22,7 @@ for voice in voices:
 voice_id = "desired_voice_id"  # Replace with the ID of the desired voice
 tts.setProperty('voice', voice_id)
 # Set up your OpenAI API key
-openai.api_key = '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'
+openai.api_key = 'sk'
 
 # Initialize the speech recognition engine
 recognizer = sr.Recognizer()
